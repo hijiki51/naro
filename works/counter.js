@@ -6,7 +6,7 @@ const countUp = () => {
 
 const reset = () => {
   count = 0;
-  werite();
+  write();
 };
 const write = () => {
   const countElement = document.querySelector("#count");
